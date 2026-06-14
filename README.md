@@ -17,6 +17,7 @@ The Next Planet is a community-driven platform that helps users discover movies,
 <p align="center">
   <img src="assets/alien-icon-512.png" alt="The Next Planet" width="100">
 </p>
+
 ---
 ## What is The Next Planet?
 
