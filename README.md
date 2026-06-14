@@ -19,11 +19,27 @@ The Next Planet is a community-driven platform that helps users discover movies,
 </p>
 
 
-## What is The Next Planet?
+## Contents
+
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Working Mirrors](#working-mirrors)
+- [Statistics](#statistics)
+
+## 🎁 What is The Next Planet?
 
 The internet is filled with thousands of entertainment sources spread across different websites and platforms.
 
 The Next Planet brings them together in one place, making it easier to discover trending content, explore new releases, and stay connected with the entertainment you love.
+
+
+# 🚀 Working-mirrors
+
+| Mirror URL | Status | SSL  |
+|------------|--------|--------|
+| [TheNextWorld.site](https://thenextworld.site) | ✅ Online | 🔒 |
+| [thenextplanet.living](https://thenextplanet.living) | ✅ Online | 🔒 |
+| [tnp57.shop](https://tnp57.shop) | ✅ Online | 🔒 |
 
 ---
 
@@ -45,7 +61,7 @@ The Next Planet brings them together in one place, making it easier to discover 
 
 ---
 
-## Explore
+## 📊 Explore
 
 * Movies
 * TV Series
@@ -59,7 +75,41 @@ The Next Planet brings them together in one place, making it easier to discover 
 
 ---
 
-## Our Mission
+
+
+# 🌍 Countries Blocking The Next Planet (2026)
+- 🇬🇧 United Kingdom (Court-ordered ISP blocks)
+- 🇺🇸 United States (ISP throttling & filtering)
+- 🇦🇺 Australia (Court-mandated blocks)
+- 🇩🇪 Germany (Copyright enforcement)
+- 🇫🇷 France (Hadopi law)
+- 🇮🇹 Italy (ISP filtering)
+- 🇮🇳 India (Intermittent blocks)
+- 🇨🇦 Canada (Legal filtering)
+- 🇨🇳 China (Great Firewall)
+- 🇷🇺 Russia (Government censorship)
+- ...and 20+ more
+
+# 
+
+
+## 🔒 Why Use a VPN?
+
+> For enhanced privacy and security, consider using a VPN when accessing TheNextPlanet.
+
+
+* Hide your IP address
+* Encrypt your internet traffic
+* Prevent ISP monitoring
+* Bypass network restrictions
+* Reduce the risk of IP leaks
+* Stay protected on public Wi-Fi
+
+A VPN is not required to use The Next Planet, but it can provide an additional layer of privacy while browsing and using OTT related services.
+
+
+
+## ⚡ Our Mission
 
 We believe entertainment should be easy to discover.
 
@@ -67,7 +117,7 @@ The Next Planet is built to help users find content quickly through a simple, ac
 
 ---
 
-## Growing Ecosystem
+## 🏆 Growing Ecosystem
 
 The Next Planet operates through multiple domains and mirrors to ensure reliable access and uninterrupted availability for users worldwide.
 
@@ -75,7 +125,7 @@ As the community grows, new services and features continue to be added to improv
 
 ---
 
-## Community
+## 🎪 Community
 
 The Next Planet is more than a website.
 
@@ -85,13 +135,13 @@ We welcome feedback, suggestions, and contributions from users around the world.
 
 ---
 
-## Website
+## 🎯 Website
 
 🌎 https://www.thenextworld.site
 
 ---
 
-## Stay Connected
+## 🚧 Stay Connected
 
 Follow The Next Planet for updates, new features, and the latest additions to the platform.
 
