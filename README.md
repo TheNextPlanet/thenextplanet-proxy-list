@@ -1,120 +1,91 @@
-# The Next Planet 🌍
+# The Next Planet 🌎
 
-### Search Millions of Torrents Through the BitTorrent DHT Network
+### Your Gateway to Unlimited Entertainment
 
-The Next Planet is a decentralized torrent discovery platform powered by the BitTorrent DHT (Distributed Hash Table) network. Search torrent metadata instantly without relying on centralized torrent indexes.
+The Next Planet is a community-driven platform that helps users discover movies, TV series, live channels, sports, apps, and digital entertainment from across the web.
 
-👉 https://www.thenextworld.site
-
----
-
-## Features
-
-✅ Real-time DHT crawling
-
-✅ Millions of indexed torrents
-
-✅ Magnet links only
-
-✅ Fast search engine
-
-✅ No registration required
-
-✅ Mobile-friendly interface
-
-✅ Updated continuously
+🔗 Official Website: https://www.thenextplanet.living
 
 ---
 
-## Why The Next Planet?
+## What is The Next Planet?
 
-Traditional torrent websites depend on centralized databases that can be blocked, restricted, or taken offline.
+The internet is filled with thousands of entertainment sources spread across different websites and platforms.
 
-The Next Planet discovers torrents directly from the BitTorrent DHT network, making torrent discovery more decentralized, scalable, and resilient.
-
-Our crawler continuously collects metadata from peers worldwide and indexes it for lightning-fast search.
+The Next Planet brings them together in one place, making it easier to discover trending content, explore new releases, and stay connected with the entertainment you love.
 
 ---
 
-## Popular Categories
+## Why Millions Visit The Next Planet
 
-- Movies
-- TV Shows
-- Anime
-- Games
-- Software
-- Music
-- eBooks
-- Linux ISOs
-- Educational Content
+✅ Easy content discovery
 
----
+✅ Fast and lightweight interface
 
-## How It Works
+✅ Mobile-friendly experience
 
-1. Connect to the BitTorrent DHT network
-2. Discover infohashes from active peers
-3. Retrieve torrent metadata
-4. Index metadata for fast searching
-5. Deliver instant search results
+✅ Frequently updated content
 
-No `.torrent` files are hosted on our servers.
+✅ Multiple mirror domains
+
+✅ Community-driven ecosystem
+
+✅ Access from anywhere
 
 ---
 
-## Search Torrents
+## Explore
 
-Visit:
-
-https://www.thenextworld.site
-
-Search by:
-
-- Torrent name
-- Keywords
-- Categories
-- Info Hash
-
----
-
-## Supported Clients
-
-Open magnet links directly in:
-
-- qBittorrent
-- Transmission
-- Deluge
-- uTorrent
-- BitTorrent
-- WebTorrent
+* Movies
+* TV Series
+* Web Series
+* Live TV
+* Sports
+* Anime
+* Apps
+* Trending Content
+* New Releases
 
 ---
 
-## Statistics
+## Our Mission
 
-- Millions of indexed torrents
-- Thousands of new torrents discovered daily
-- Distributed crawler infrastructure
-- Continuous metadata updates
+We believe entertainment should be easy to discover.
+
+The Next Planet is built to help users find content quickly through a simple, accessible, and continuously evolving platform.
 
 ---
 
-## Disclaimer
+## Growing Ecosystem
 
-The Next Planet is a search engine that indexes metadata publicly available through the BitTorrent DHT network.
+The Next Planet operates through multiple domains and mirrors to ensure reliable access and uninterrupted availability for users worldwide.
 
-We do not host torrent files, copyrighted content, or any downloadable media on our servers. Search results are generated from information available on the public BitTorrent network.
+As the community grows, new services and features continue to be added to improve the overall experience.
 
-Users are solely responsible for ensuring compliance with applicable laws in their jurisdiction.
+---
+
+## Community
+
+The Next Planet is more than a website.
+
+It is a growing digital community built around entertainment, discovery, and accessibility.
+
+We welcome feedback, suggestions, and contributions from users around the world.
 
 ---
 
 ## Website
 
-🌍 https://www.thenextworld.site
+🌎 https://www.thenextplanet.living
 
 ---
 
-### Support The Next Planet ⭐
+## Stay Connected
 
-If you find The Next Planet useful, consider starring the repository and sharing it with others.
+Follow The Next Planet for updates, new features, and the latest additions to the platform.
+
+---
+
+### Support The Project ⭐
+
+If you enjoy using The Next Planet, consider starring this repository and sharing it with others.
