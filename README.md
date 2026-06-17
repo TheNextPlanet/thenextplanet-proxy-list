@@ -31,7 +31,7 @@ The Next Planet brings them together in one place, making it easier to discover 
 | Mirror URL | Status | SSL  |
 |------------|--------|--------|
 | [TheNextWorld.site](https://thenextworld.site) | ✅ Online | 🔒 |
-| [thenextplanet.living](https://thenextplanet.living) | ✅ Online | 🔒 |
+| [thenextplanet.surf](https://thenextplanet.surf) | ✅ Online | 🔒 |
 | [tnp57.shop](https://tnp57.shop) | ✅ Online | 🔒 |
 
 ---
