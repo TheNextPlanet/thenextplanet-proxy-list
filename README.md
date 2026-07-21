@@ -32,8 +32,8 @@ The Next Planet brings them together in one place, making it easier to discover 
 |------------|--------|--------|
 | [TheNextWorld.site](https://thenextworld.site) | ✅ Online | 🔒 |
 | [thenextplanet-official.space](https://thenextplanet-official.space) | ✅ Online | 🔒 |
+| [tnp57.site](https://tnp57.site) | ✅ Online | 🔒 |
 | [tnp57.shop](https://tnp57.shop) | ✅ Online | 🔒 |
-| [TheNextPlanet.surf](https://thenextplanet.surf) | ❌ Blocked | ❌ |
 
 ---
 
